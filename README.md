@@ -1,4 +1,4 @@
-# EmployeeAttritionControlDeterminant
+# Employee-Attrition-Control-Determinant
 What is employee attrition?
 It is the reduction in staff or employee over a period of time due to voluntarily or by being laid-off by the company.
 Employee attrition rate is usually calculated as total number of employees lost by the total number of employees previously x 100.
